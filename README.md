@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @acalderon20
-- 👀 I’m interested in literally anything computer science related
-- 🌱 I’m currently learning iOS Development
-- 💞️ I’m looking to collaborate on Homework
-- 📫 How to reach me acalderon20@coe.edu
+- 👋 Hi, I’m Adolfo!
+- 👀 I’m interested in iOS Development
+- 🌱 I’m currently focusing on mastering SwiftUI
+- 💞️ I’m looking to collaborate on projects!
+- 📫 Connect with me on LinkedIn! https://www.linkedin.com/in/adolfofabiancalderon/
